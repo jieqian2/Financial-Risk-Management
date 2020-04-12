@@ -1,3 +1,6 @@
+#DCC: Dynamic Conditional Correlation
+#PCA: Principle Component Analysis
+
 library(readr)
 df <- read_csv("hw8-data.csv")
 
